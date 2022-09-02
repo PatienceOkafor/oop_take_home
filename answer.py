@@ -110,13 +110,11 @@ python =  Pet()
 guinnea_pig = Pet()
 parrot = Pet()
 
-
 class Female:
     firstname = ""
     age = ""
     sex = ""
     height = ""
-
 Patient = Female()
 Jamefine = Female()
 Teejahdys = Female()
